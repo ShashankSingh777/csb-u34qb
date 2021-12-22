@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://shashanksingh777.github.io/csb-u34qb/static/js/main.5d56ff63.chunk.js",
+    "main.js.map": "https://shashanksingh777.github.io/csb-u34qb/static/js/main.5d56ff63.chunk.js.map",
+    "runtime-main.js": "https://shashanksingh777.github.io/csb-u34qb/static/js/runtime-main.aea470d8.js",
+    "runtime-main.js.map": "https://shashanksingh777.github.io/csb-u34qb/static/js/runtime-main.aea470d8.js.map",
+    "static/js/2.0a6b8640.chunk.js": "https://shashanksingh777.github.io/csb-u34qb/static/js/2.0a6b8640.chunk.js",
+    "static/js/2.0a6b8640.chunk.js.map": "https://shashanksingh777.github.io/csb-u34qb/static/js/2.0a6b8640.chunk.js.map",
+    "index.html": "https://shashanksingh777.github.io/csb-u34qb/index.html",
+    "precache-manifest.6923c1fb8591e815cec3e6f2bab1a4b8.js": "https://shashanksingh777.github.io/csb-u34qb/precache-manifest.6923c1fb8591e815cec3e6f2bab1a4b8.js",
+    "service-worker.js": "https://shashanksingh777.github.io/csb-u34qb/service-worker.js",
+    "static/js/2.0a6b8640.chunk.js.LICENSE.txt": "https://shashanksingh777.github.io/csb-u34qb/static/js/2.0a6b8640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea470d8.js",
+    "static/js/2.0a6b8640.chunk.js",
+    "static/js/main.5d56ff63.chunk.js"
+  ]
+}
